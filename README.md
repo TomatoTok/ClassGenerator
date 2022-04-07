@@ -1,5 +1,5 @@
 # ClassGenerator
-Generador de constructor clasico de smalltalk.
+Generador de constructor clasico de smalltalk.                            
 Me daba fiaca repetir la constuccion de objetos asi que cree una clase que lo hace por mi 😅.
 
 Instrucciones:
