@@ -2,17 +2,16 @@
 Generador de constructor clasico de smalltalk.                            
 Me daba fiaca repetir la constuccion de objetos asi que cree una clase que lo hace por mi 😅.
 
-Instrucciones:
-1) Crear un objeto de la clase ClassGenerator
-2) Utilizar el mensaje "generateClassicConstructorMethod:"
-3) Pasar por parametro una coleccion con los atributos de tu clase.
-
-Luego resta copiar y pegar los metodos que se ven en el transcript.
-
-EJEMPLO:                                                                            
----------------------------------------------------------------------------.                                        
-PLAYGROUND:                                                         
-![image](https://user-images.githubusercontent.com/77556113/162099344-7288807f-3fed-4c85-bfe3-1d504c0f6d47.png)                                                              
+**Actualizacion 12-04-22**                                                                        
+Novedades:                                                                                    
+  *Se agrego un tutorial en la parte de "comments".                                                   
+  *Se agregaron las variables a la muestra del Transcript                                                         
+  
+Seccion de "Comments"                                                                            
+---------------------------------------------------------------------------.                                                                                               
+       ![img1](https://user-images.githubusercontent.com/77556113/163053693-8d3e3bd6-63d6-4cd8-8711-ef537df98c35.png)
+                                                      
 ---------------------------------------------------------------------------.                                                
 por Transcript se ve esto:                                                                                  
-![image](https://user-images.githubusercontent.com/77556113/162099277-a93469a0-524f-4877-a4f6-2eebdf01db27.png)
+
+![img2](https://user-images.githubusercontent.com/77556113/163053727-7bdf9d75-8b91-4516-8b94-25a507689fdc.png)
